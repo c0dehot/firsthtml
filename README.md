@@ -1,2 +1,7 @@
 # firsthtml
-this is my first html repo
+This is my first webpage with a ducky.
+
+## Hobbies
+- home renovation
+- jogging
+- sleeping
